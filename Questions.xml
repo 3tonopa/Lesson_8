@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfQuestions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Questions>
+    <Text>Радугу можно увидеть и в полночь?</Text>
+    <TrueFalse>true</TrueFalse>
+  </Questions>
+  <Questions>
+    <Text>2</Text>
+    <TrueFalse>true</TrueFalse>
+  </Questions>
+  <Questions>
+    <Text>3</Text>
+    <TrueFalse>true</TrueFalse>
+  </Questions>
+  <Questions>
+    <Text>4</Text>
+    <TrueFalse>true</TrueFalse>
+  </Questions>
+  <Questions>
+    <Text>belive or not</Text>
+    <TrueFalse>true</TrueFalse>
+  </Questions>
+</ArrayOfQuestions>
